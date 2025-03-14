@@ -28,7 +28,7 @@ L'agent est capable de comprendre les questions des utilisateurs, de détecter l
 
 - Un compte Google pour accéder à Google Colab.
 - Une connexion internet stable.
-- Ou exécuter sur sa machine, LLaMA 3.2-1B-Instruct s'exécute en moins de 5 min sur un CPU core I7 de 16 GB avec RAM. 
+- Ou exécuter sur sa machine, LLaMA 3.2-1B-Instruct s'exécute en moins de 5 min sur un CPU core I7 de 16 GB de RAM. 
 
 ### Étapes pour exécuter l'agent
 
