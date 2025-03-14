@@ -1,0 +1,33 @@
+# pas de dialogue ajouté
+	
+	
+	
+	
+	
+	
+	
+	
+	Intent A : Organisation de la société médiévale		Slots : Seigneur, Chevalier, Paysan, Moine, Artisan
+	Intent B : Mode de vie des seigneurs et chevaliers	Slots : Alimentation, Logement, Activités quotidiennes 
+	Intent C : Vie des paysans et artisans			Slots : Travail, Outils, Conditions de vie
+	Intent D : Fonctionnement des châteaux forts		Slots : Défense, Architecture, Pièce principale
+	Intent E : Religions et croyances aux Moyen-âge		Slots : Catholicisme, Hérésies, Rituels, Reliques
+	Intent F : Apprentissage et éducation			Slots : Écoles monastiques, Universités, Maîtres et élèves
+	Intent G : Commerce et échanges économiques		Slots : Monnaies, Routes commerciales, Marchés médiévaux 
+	Intent I : Maladies et médecine médiévale		Slots : Types de maladies, Remèdes, Médecins et guérisseurs
+	Intent J : Rôles et place des femmes		 	Slots : Noblesse, Paysannerie, Monastères, Métiers
+	Intent K : Tournois et divertissements			Slots : Joutes, Banquets, Jeux populaires
+	Intent L : Guerre et stratégies militaires		Slots : Armures, Armes, Techniques de combat
+	Intent M : Justice et droit féodal			Slots : Tribunaux, châtiments, Serments
+	Intent N : Religion et hérésie				Slots : Croisades, Inquisition, Saints et pélérinages 
+	Intent O : Villes et villages médiévaux			Slots : Urbanisme, Rôles des corporations, Artisanat
+	Intent P : Construction des cathédrales et églises	Slots : Architecture, Art gothique, Métiers impliqués
+	Intent Q : Nourriture et cuisine médiévale		Slots : Plats typiques, Ingrédients utilisés, Techniques de cuisson
+	Intent R : Vie quotidienne des moines et moniales	Slots : Règles monastiques, Travail, Prière
+	Intent S : Fonctionnement du système féodal		Slots : Suzeraineté, Hommage, Fiefs
+	Intent T : Pirates et bandits au Moyen Âge		Slots : Routes Dangereuses, Répression des brigands
+	Intent U : Superstitions et magie			Slots : Sorcellerie, Astrologie, Amulettes
+	Intent V : Art et musique médiévale			Slots : Instruments, Peinture, Littérature 
+	Intent X : Épidémies et famines				Slots : Peste noire, Disettes, Réactions des populations
+	Intent Y : Coutûmes et mariages				Slots : Mariage nobles vs paysan, Traditions, Dotes
+	Intent Z : Sortir de la conversation						

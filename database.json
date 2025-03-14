@@ -1,0 +1,106 @@
+{
+    "Coutumes et mariages": {
+        "Mariage nobles vs paysans": "Les mariages dans la noblesse sont souvent arrangés pour des raisons politiques ou économiques.",
+        "Rituel du mariage": "Le mariage est un acte sacré, célébré par l'Église.",
+        "Dot": "La dot est une somme d'argent ou des biens donnés par la famille de la femme au mari.",
+        "Traditions": "Les traditions de mariage incluent des coutumes variées selon les régions, comme la bénédiction des époux par l'Église et des festivités entourant le mariage."
+    },
+    "Organisation de la société médiévale": {
+        "Seigneur": "Le seigneur est le propriétaire des terres.",
+        "Chevalier": "Un chevalier est un combattant lourdement armé.",
+        "Paysan": "Les paysans travaillent la terre et produisent de la nourriture.",
+        "Moine": "Les moines vivent dans des monastères et suivent une règle religieuse stricte.",
+        "Artisan": "Les artisans sont des travailleurs spécialisés, comme des forgerons, des tisserands ou des potiers."
+    },
+    "Mode de vie des seigneurs et chevaliers": {
+        "Alimentation": "Viande, pain, légumes, soupe.",
+        "Logement": "Châteaux et manoirs, grandes chambres avec lits en bois.",
+        "Activités quotidiennes": "Chasse, entraînement militaire, gestion des terres."
+    },
+    "Vie des paysans et artisans": {
+        "Travail": "Les paysans travaillent principalement la terre, tandis que les artisans fabriquent des objets.",
+        "Outils": "Les paysans utilisent des outils simples comme des charrues en bois et des faucilles.",
+        "Conditions de vie": "Les paysans vivent dans des fermes modestes et leurs conditions de vie sont souvent difficiles."
+    },
+    "Fonctionnement des châteaux forts": {
+        "Défense": "Les châteaux forts sont construits pour se défendre contre les attaques, avec des remparts et des fossés.",
+        "Architecture": "Les châteaux ont des murs épais, des tours de guet et une porte fortifiée.",
+        "Pièce principale": "La grande salle est la pièce principale où se tiennent les repas et les assemblées."
+    },
+    "Religions et croyances": {
+        "Catholicisme": "La religion dominante est le catholicisme, avec une hiérarchie cléricale forte.",
+        "Hérésies": "Les hérésies sont des croyances contraires aux enseignements de l'Église, souvent réprimées.",
+        "Rituels": "Les rituels religieux comprennent la messe, les prières quotidiennes, et les sacrements.",
+        "Reliques": "Les reliques sont des objets saints associés à des saints ou à Jésus, vénérés par les croyants."
+    },
+    "Apprentissage et éducation": {
+        "Écoles monastiques": "Les moines enseignent dans des écoles monastiques, principalement des langues et des écritures.",
+        "Universités": "Les premières universités apparaissent, où l'on enseigne le droit, la médecine et les arts.",
+        "Maîtres et élèves": "Les maîtres sont des enseignants souvent issus du clergé, et les élèves viennent de familles nobles."
+    },
+    "Commerce et échanges économiques": {
+        "Monnaies": "Les monnaies utilisées étaient en métal, comme l'argent et l'or.",
+        "Routes commerciales": "Les routes commerciales terrestres et maritimes relient l'Europe, l'Asie et l'Afrique.",
+        "Marchés": "Les marchés sont des lieux importants pour l'échange de biens, où l'on trouve des produits locaux et importés."
+    },
+    "Maladies et médecine": {
+        "Types de maladies": "Les épidémies comme la peste noire déciment des populations, et d'autres maladies courantes incluent la variole et la lèpre.",
+        "Remèdes": "Les remèdes sont souvent basés sur des plantes médicinales, des saignées et des prières.",
+        "Médecins et guérisseurs": "Les médecins sont souvent des moines ou des savants, tandis que les guérisseurs populaires utilisent des remèdes traditionnels."
+    },
+    "Rôles et place des femmes": {
+        "Noblesse": "Les femmes nobles gèrent les domaines, épousent des seigneurs et participent à la gestion des terres.",
+        "Paysannerie": "Les femmes paysannes aident à la ferme et s'occupent des enfants et de la maison.",
+        "Monastères": "Les femmes moniales vivent dans des monastères, suivant des règles religieuses strictes.",
+        "Métiers": "Certaines femmes exercent des métiers artisanaux comme couturières ou tisserandes."
+    },
+    "Tournois et divertissements": {
+        "Joutes": "Les joutes sont des compétitions entre chevaliers, où l'on se lance des lances pour éjecter l'adversaire de son cheval.",
+        "Banquets": "Les banquets sont des événements sociaux où se mélangent nourriture, musique et danse.",
+        "Jeux populaires": "Les jeux populaires incluent les combats de bêtes, les courses de chevaux et les jeux de dés."
+    },
+    "Guerre et stratégies militaires": {
+        "Armures": "Les chevaliers portent des armures lourdes, incluant des casques, des plastrons et des épées.",
+        "Armes": "Les armes incluent les épées, les lances, les arcs et les haches.",
+        "Techniques de combat": "Les techniques incluent la cavalerie, les sièges de forteresses, et les batailles rangées."
+    },
+    "Justice et droit féodal": {
+        "Tribunaux": "Les tribunaux féodaux jugent les affaires liées à la propriété et aux serments de loyauté.",
+        "Châtiments": "Les châtiments varient selon les crimes, allant de l'amende à l'exécution.",
+        "Serments": "Les serments de fidélité sont essentiels dans la relation entre seigneurs et vassaux."
+    },
+    "Pirates et bandits": {
+        "Routes dangereuses": "Les routes commerciales sont menacées par des pirates et des bandits.",
+        "Répression des brigands": "Les seigneurs et les rois organisent des expéditions pour chasser les brigands."
+    },
+    "Superstitions et magie": {
+        "Sorcellerie": "La sorcellerie est perçue comme un crime grave, souvent punie par le feu.",
+        "Astrologie": "L'astrologie est utilisée pour prédire les événements et comprendre les influences célestes.",
+        "Amulettes": "Les amulettes sont portées pour se protéger des mauvais sorts et de la maladie."
+    },
+    "Art et musique": {
+        "Instruments": "Les instruments incluent la harpe, le luth, la flûte et les tambours.",
+        "Peinture": "La peinture médiévale est souvent religieuse, avec des thèmes bibliques et des portraits de saints.",
+        "Littérature": "La littérature médiévale comprend des poèmes épiques, des récits de chevalerie et des chansons de geste."
+    },
+    "Épidémies et famines": {
+        "Peste noire": "La peste noire ravage l'Europe, tuant des millions de personnes.",
+        "Disettes": "Les famines sont causées par des récoltes insuffisantes, souvent dues à la guerre ou au climat.",
+        "Réactions des populations": "Les populations réagissent en cherchant des remèdes ou en fuyant vers des régions plus sûres."
+    },
+    "Construction des cathédrales et églises": {
+        "Architecture": "Les cathédrales gothiques sont caractérisées par des arcs-boutants, de grandes fenêtres et des voûtes d'ogives.",
+        "Construction": "Les constructions de cathédrales peuvent durer des siècles, avec une main-d'œuvre composée de tailleurs de pierre, de charpentiers et de maçons.",
+        "Fonction religieuse": "Les cathédrales sont des lieux de culte, de pèlerinage et de rassemblement pour la prière.",
+        "Exemples célèbres": "La cathédrale de Notre-Dame de Paris et la cathédrale de Chartres sont parmi les plus célèbres."
+    },
+    "Nourriture et cuisine médiévale": {
+        "Aliments courants": "Les aliments de base incluent le pain, la viande (souvent de porc ou de bétail), les légumes comme les choux, les pois et les oignons.",
+        "Repas": "Les repas sont souvent composés de pain, de soupe ou de ragoût, parfois accompagnés de viande ou de poisson, selon les moyens.",
+        "Méthodes de cuisson": "La cuisson se fait principalement à l'aide de chaudrons suspendus au-dessus d'un feu ouvert ou dans des fours en pierre.",
+        "Épices": "Les épices sont utilisées dans la cuisine, mais elles sont coûteuses et réservées principalement aux classes supérieures.",
+        "Boissons": "Le vin, la bière et l'hydromel sont des boissons courantes, bien que l'eau puisse être dangereuse à boire dans certaines régions.",
+        "Rituels alimentaires": "Les repas étaient souvent suivis de prières, surtout lors des repas importants comme les banquets."
+    }
+}
+
