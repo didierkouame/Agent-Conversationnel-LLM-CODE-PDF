@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 # -------------------------------------------------------------------------------------------------------------------
 def init_model():
     # le modèle
-     MODEL_NAME = "/home/didierk/Documents/M2 2023/S2/Parole/Dialogues et agent conversationnel/Projet/vie_au_moyen_age/ressources_LLM/Llama-3.2-1B-Instruct"
+     MODEL_NAME = "Llama-3.2-1B-Instruct"
 
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME, trust_remote_code=True)
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
