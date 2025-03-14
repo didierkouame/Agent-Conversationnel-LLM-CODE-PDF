@@ -46,3 +46,5 @@ L'agent est capable de comprendre les questions des utilisateurs, de détecter l
 - **Comment vivaient les paysans au Moyen Âge ?**
 - **Quels étaient les principaux métiers au Moyen Âge ?**
 - **Comment fonctionnait le système féodal ?**
+
+## Licence : CC-BY-ND 4.0
